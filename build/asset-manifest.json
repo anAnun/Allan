@@ -1,7 +1,7 @@
 {
   "main.css": "/Allan/static/css/main.f0a0b882.chunk.css",
-  "main.js": "/Allan/static/js/main.754cb786.chunk.js",
-  "main.js.map": "/Allan/static/js/main.754cb786.chunk.js.map",
+  "main.js": "/Allan/static/js/main.1d7195c2.chunk.js",
+  "main.js.map": "/Allan/static/js/main.1d7195c2.chunk.js.map",
   "static/js/1.6337a2ac.chunk.js": "/Allan/static/js/1.6337a2ac.chunk.js",
   "static/js/1.6337a2ac.chunk.js.map": "/Allan/static/js/1.6337a2ac.chunk.js.map",
   "runtime~main.js": "/Allan/static/js/runtime~main.07a57a09.js",
@@ -13,6 +13,6 @@
   "static/media/troll.jpg": "/Allan/static/media/troll.c26927d5.jpg",
   "static/css/main.f0a0b882.chunk.css.map": "/Allan/static/css/main.f0a0b882.chunk.css.map",
   "index.html": "/Allan/index.html",
-  "precache-manifest.f327e67ce9c530bd8b5b3b2260f1e3fc.js": "/Allan/precache-manifest.f327e67ce9c530bd8b5b3b2260f1e3fc.js",
+  "precache-manifest.88aa128fcefc74bf8ee396481136eb06.js": "/Allan/precache-manifest.88aa128fcefc74bf8ee396481136eb06.js",
   "service-worker.js": "/Allan/service-worker.js"
 }
