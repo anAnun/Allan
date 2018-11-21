@@ -1,9 +1,9 @@
 {
-  "main.css": "/Allan/static/css/main.f0a0b882.chunk.css",
-  "main.js": "/Allan/static/js/main.1d7195c2.chunk.js",
-  "main.js.map": "/Allan/static/js/main.1d7195c2.chunk.js.map",
-  "static/js/1.6337a2ac.chunk.js": "/Allan/static/js/1.6337a2ac.chunk.js",
-  "static/js/1.6337a2ac.chunk.js.map": "/Allan/static/js/1.6337a2ac.chunk.js.map",
+  "main.css": "/Allan/static/css/main.11546c0f.chunk.css",
+  "main.js": "/Allan/static/js/main.680409d2.chunk.js",
+  "main.js.map": "/Allan/static/js/main.680409d2.chunk.js.map",
+  "static/js/1.4a908915.chunk.js": "/Allan/static/js/1.4a908915.chunk.js",
+  "static/js/1.4a908915.chunk.js.map": "/Allan/static/js/1.4a908915.chunk.js.map",
   "runtime~main.js": "/Allan/static/js/runtime~main.07a57a09.js",
   "runtime~main.js.map": "/Allan/static/js/runtime~main.07a57a09.js.map",
   "static/media/AllanYeznaian.pdf": "/Allan/static/media/AllanYeznaian.1f1cfd45.pdf",
@@ -11,8 +11,8 @@
   "static/media/Slider2.jpg": "/Allan/static/media/Slider2.74b43c64.jpg",
   "static/media/App.css": "/Allan/static/media/Static.496b32c8.gif",
   "static/media/troll.jpg": "/Allan/static/media/troll.c26927d5.jpg",
-  "static/css/main.f0a0b882.chunk.css.map": "/Allan/static/css/main.f0a0b882.chunk.css.map",
+  "static/css/main.11546c0f.chunk.css.map": "/Allan/static/css/main.11546c0f.chunk.css.map",
   "index.html": "/Allan/index.html",
-  "precache-manifest.f2a56fc1d02163c6086d836fa2a8f742.js": "/Allan/precache-manifest.f2a56fc1d02163c6086d836fa2a8f742.js",
+  "precache-manifest.875370e9294cc7b1bc069a8277334ce3.js": "/Allan/precache-manifest.875370e9294cc7b1bc069a8277334ce3.js",
   "service-worker.js": "/Allan/service-worker.js"
 }

@@ -10,9 +10,13 @@ class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <Route exact path="/" component={Scene1} />
-        <Route exact path="/home" component={Home} />
-        <Route exact path="/resume" component={Resume} />
+        <Route exact path={process.env.PUBLIC_URL + "/"} component={Scene1} />
+        <Route exact path={process.env.PUBLIC_URL + "/home"} component={Home} />
+        <Route
+          exact
+          path={process.env.PUBLIC_URL + "/resume"}
+          component={Resume}
+        />
       </React.Fragment>
     );
   }
