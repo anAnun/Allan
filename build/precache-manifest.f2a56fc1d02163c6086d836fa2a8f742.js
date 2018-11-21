@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/Allan/static/css/main.f0a0b882.chunk.css"
   },
   {
-    "revision": "910bc9c28645e7ac4a83e85a640f221f",
+    "revision": "82de270c829c35487545263cd34bf8b9",
     "url": "/Allan/index.html"
   }
 ];
