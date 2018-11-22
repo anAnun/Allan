@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/Allan/static/js/runtime~main.07a57a09.js"
   },
   {
-    "revision": "680409d23bfededa4687",
-    "url": "/Allan/static/js/main.680409d2.chunk.js"
+    "revision": "422c6f74774648766816",
+    "url": "/Allan/static/js/main.422c6f74.chunk.js"
   },
   {
     "revision": "4a9089154c1bb1227133",
     "url": "/Allan/static/js/1.4a908915.chunk.js"
   },
   {
-    "revision": "680409d23bfededa4687",
+    "revision": "422c6f74774648766816",
     "url": "/Allan/static/css/main.11546c0f.chunk.css"
   },
   {
-    "revision": "9f511dc95e10b5053322a745b8709049",
+    "revision": "3572a49f40560cec39ed2737018244df",
     "url": "/Allan/index.html"
   }
 ];
